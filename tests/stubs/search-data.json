@@ -1,0 +1,86 @@
+{
+   "resultData": [
+   {  
+      "id":"cxd650nuyo",
+      "title":"Courtyard by Marriott Sydney-North Ryde",
+      "address":"7-11 Talavera Rd, North Ryde",
+      "image":"https://unsplash.it/145/125/?random",
+      "rating":4,
+      "ratingType":"self",
+      "promotion":"Exclusive Deal",
+      "name":"Deluxe Balcony Room",
+      "price":500,
+      "savings":30,
+      "freeCancellation":false
+   },
+   {  
+      "id":"mesq6mggyn",
+      "title":"Primus Hotel Sydney",
+      "address":"339 Pitt St, Sydney",
+      "image":"https://unsplash.it/145/125/?random",
+      "rating":5,
+      "ratingType":"self",
+      "promotion":"Exclusive Deal",
+      "roomName":"Deluxe King",
+      "price":375,
+      "savings":28,
+      "freeCancellation":true
+   }
+ ],
+ "lowToHigh": [
+   {  
+      "id":"mesq6mggyn",
+      "title":"Primus Hotel Sydney",
+      "address":"339 Pitt St, Sydney",
+      "image":"https://unsplash.it/145/125/?random",
+      "rating":5,
+      "ratingType":"self",
+      "promotion":"Exclusive Deal",
+      "roomName":"Deluxe King",
+      "price":375,
+      "savings":28,
+      "freeCancellation":true
+   },
+   {  
+      "id":"cxd650nuyo",
+      "title":"Courtyard by Marriott Sydney-North Ryde",
+      "address":"7-11 Talavera Rd, North Ryde",
+      "image":"https://unsplash.it/145/125/?random",
+      "rating":4,
+      "ratingType":"self",
+      "promotion":"Exclusive Deal",
+      "name":"Deluxe Balcony Room",
+      "price":500,
+      "savings":30,
+      "freeCancellation":false
+   }
+ ],
+ "highToLow": [
+   {  
+      "id":"cxd650nuyo",
+      "title":"Courtyard by Marriott Sydney-North Ryde",
+      "address":"7-11 Talavera Rd, North Ryde",
+      "image":"https://unsplash.it/145/125/?random",
+      "rating":4,
+      "ratingType":"self",
+      "promotion":"Exclusive Deal",
+      "name":"Deluxe Balcony Room",
+      "price":500,
+      "savings":30,
+      "freeCancellation":false
+   },
+   {  
+      "id":"mesq6mggyn",
+      "title":"Primus Hotel Sydney",
+      "address":"339 Pitt St, Sydney",
+      "image":"https://unsplash.it/145/125/?random",
+      "rating":5,
+      "ratingType":"self",
+      "promotion":"Exclusive Deal",
+      "roomName":"Deluxe King",
+      "price":375,
+      "savings":28,
+      "freeCancellation":true
+   }
+ ]
+}

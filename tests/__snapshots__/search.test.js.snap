@@ -1,0 +1,584 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render 1`] = `
+<div
+  className="app"
+>
+  <header>
+    <div
+      className="app-logo"
+    />
+  </header>
+  <section>
+    <div
+      className="filter-section"
+    >
+      <span
+        className="hotel-count"
+      >
+        2
+         
+        <i>
+          hotels in
+        </i>
+         Sydney
+      </span>
+      <div
+        className="sort-by"
+      >
+        Sort By:
+        <select
+          className="filter-data"
+          disabled={undefined}
+          onChange={[Function]}
+        >
+          <option
+            value="select"
+          >
+            Default
+          </option>
+          <option
+            value="highToLow"
+          >
+            Price high-low
+          </option>
+          <option
+            value="lowToHigh"
+          >
+            Price low-high
+          </option>
+        </select>
+      </div>
+    </div>
+    <div
+      className="hotel-info"
+    >
+      <div
+        className="result"
+      >
+        <a
+          className="hotel-items"
+          href="/"
+          id="cxd650nuyo"
+        >
+          <div
+            className="data-item-list"
+          >
+            <figure
+              className="data-item-photo"
+            >
+              <img
+                alt="Courtyard by Marriott Sydney-North Ryde"
+                className="hotel-image"
+                src="https://unsplash.it/145/125/?random"
+              />
+              <div
+                className="result-ribbon"
+              >
+                 
+                Exclusive Deal
+                 
+              </div>
+            </figure>
+            <div
+              className="data-item-content"
+            >
+              <div
+                className="property-details"
+              >
+                <div
+                  className="title-section"
+                >
+                  <h3
+                    className="property-name"
+                  >
+                    Courtyard by Marriott Sydney-North Ryde
+                  </h3>
+                  <div
+                    className="dv-star-rating dv-star-rating-non-editable"
+                    style={
+                      Object {
+                        "display": "inline-block",
+                        "position": "relative",
+                      }
+                    }
+                  >
+                    <input
+                      checked={false}
+                      className="dv-star-rating-input"
+                      id="rate2_5"
+                      name="rate2"
+                      onChange={[Function]}
+                      style={
+                        Object {
+                          "display": "none",
+                          "marginLeft": -9999,
+                          "position": "absolute",
+                        }
+                      }
+                      type="radio"
+                      value={5}
+                    />
+                    <label
+                      className="dv-star-rating-star dv-star-rating-empty-star"
+                      htmlFor="rate2_5"
+                      onClick={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseOver={[Function]}
+                      style={
+                        Object {
+                          "color": "#333",
+                          "cursor": "default",
+                          "float": "right",
+                        }
+                      }
+                    >
+                      <span>
+                        ●
+                      </span>
+                    </label>
+                    <input
+                      checked={true}
+                      className="dv-star-rating-input"
+                      id="rate2_4"
+                      name="rate2"
+                      onChange={[Function]}
+                      style={
+                        Object {
+                          "display": "none",
+                          "marginLeft": -9999,
+                          "position": "absolute",
+                        }
+                      }
+                      type="radio"
+                      value={4}
+                    />
+                    <label
+                      className="dv-star-rating-star dv-star-rating-full-star"
+                      htmlFor="rate2_4"
+                      onClick={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseOver={[Function]}
+                      style={
+                        Object {
+                          "color": "#ffb400",
+                          "cursor": "default",
+                          "float": "right",
+                        }
+                      }
+                    >
+                      <span>
+                        ●
+                      </span>
+                    </label>
+                    <input
+                      checked={false}
+                      className="dv-star-rating-input"
+                      id="rate2_3"
+                      name="rate2"
+                      onChange={[Function]}
+                      style={
+                        Object {
+                          "display": "none",
+                          "marginLeft": -9999,
+                          "position": "absolute",
+                        }
+                      }
+                      type="radio"
+                      value={3}
+                    />
+                    <label
+                      className="dv-star-rating-star dv-star-rating-full-star"
+                      htmlFor="rate2_3"
+                      onClick={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseOver={[Function]}
+                      style={
+                        Object {
+                          "color": "#ffb400",
+                          "cursor": "default",
+                          "float": "right",
+                        }
+                      }
+                    >
+                      <span>
+                        ●
+                      </span>
+                    </label>
+                    <input
+                      checked={false}
+                      className="dv-star-rating-input"
+                      id="rate2_2"
+                      name="rate2"
+                      onChange={[Function]}
+                      style={
+                        Object {
+                          "display": "none",
+                          "marginLeft": -9999,
+                          "position": "absolute",
+                        }
+                      }
+                      type="radio"
+                      value={2}
+                    />
+                    <label
+                      className="dv-star-rating-star dv-star-rating-full-star"
+                      htmlFor="rate2_2"
+                      onClick={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseOver={[Function]}
+                      style={
+                        Object {
+                          "color": "#ffb400",
+                          "cursor": "default",
+                          "float": "right",
+                        }
+                      }
+                    >
+                      <span>
+                        ●
+                      </span>
+                    </label>
+                    <input
+                      checked={false}
+                      className="dv-star-rating-input"
+                      id="rate2_1"
+                      name="rate2"
+                      onChange={[Function]}
+                      style={
+                        Object {
+                          "display": "none",
+                          "marginLeft": -9999,
+                          "position": "absolute",
+                        }
+                      }
+                      type="radio"
+                      value={1}
+                    />
+                    <label
+                      className="dv-star-rating-star dv-star-rating-full-star"
+                      htmlFor="rate2_1"
+                      onClick={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseOver={[Function]}
+                      style={
+                        Object {
+                          "color": "#ffb400",
+                          "cursor": "default",
+                          "float": "right",
+                        }
+                      }
+                    >
+                      <span>
+                        ●
+                      </span>
+                    </label>
+                  </div>
+                </div>
+                <div
+                  className="property-address"
+                >
+                  7-11 Talavera Rd, North Ryde
+                </div>
+                <div
+                  className="property-room-name"
+                />
+              </div>
+              <div
+                className="price-details"
+              >
+                <div
+                  className="item-nights"
+                >
+                  1 night from (AUD)
+                </div>
+                <div
+                  className="item-price"
+                >
+                   
+                  <sup>
+                    $
+                  </sup>
+                   
+                  500
+                </div>
+                <div
+                  className="item-save"
+                >
+                  Save $
+                  30
+                  ~
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+        <a
+          className="hotel-items"
+          href="/"
+          id="mesq6mggyn"
+        >
+          <div
+            className="data-item-list"
+          >
+            <figure
+              className="data-item-photo"
+            >
+              <img
+                alt="Primus Hotel Sydney"
+                className="hotel-image"
+                src="https://unsplash.it/145/125/?random"
+              />
+              <div
+                className="result-ribbon"
+              >
+                 
+                Exclusive Deal
+                 
+              </div>
+            </figure>
+            <div
+              className="data-item-content"
+            >
+              <div
+                className="property-details"
+              >
+                <div
+                  className="title-section"
+                >
+                  <h3
+                    className="property-name"
+                  >
+                    Primus Hotel Sydney
+                  </h3>
+                  <div
+                    className="dv-star-rating dv-star-rating-non-editable"
+                    style={
+                      Object {
+                        "display": "inline-block",
+                        "position": "relative",
+                      }
+                    }
+                  >
+                    <input
+                      checked={true}
+                      className="dv-star-rating-input"
+                      id="rate2_5"
+                      name="rate2"
+                      onChange={[Function]}
+                      style={
+                        Object {
+                          "display": "none",
+                          "marginLeft": -9999,
+                          "position": "absolute",
+                        }
+                      }
+                      type="radio"
+                      value={5}
+                    />
+                    <label
+                      className="dv-star-rating-star dv-star-rating-full-star"
+                      htmlFor="rate2_5"
+                      onClick={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseOver={[Function]}
+                      style={
+                        Object {
+                          "color": "#ffb400",
+                          "cursor": "default",
+                          "float": "right",
+                        }
+                      }
+                    >
+                      <span>
+                        ●
+                      </span>
+                    </label>
+                    <input
+                      checked={false}
+                      className="dv-star-rating-input"
+                      id="rate2_4"
+                      name="rate2"
+                      onChange={[Function]}
+                      style={
+                        Object {
+                          "display": "none",
+                          "marginLeft": -9999,
+                          "position": "absolute",
+                        }
+                      }
+                      type="radio"
+                      value={4}
+                    />
+                    <label
+                      className="dv-star-rating-star dv-star-rating-full-star"
+                      htmlFor="rate2_4"
+                      onClick={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseOver={[Function]}
+                      style={
+                        Object {
+                          "color": "#ffb400",
+                          "cursor": "default",
+                          "float": "right",
+                        }
+                      }
+                    >
+                      <span>
+                        ●
+                      </span>
+                    </label>
+                    <input
+                      checked={false}
+                      className="dv-star-rating-input"
+                      id="rate2_3"
+                      name="rate2"
+                      onChange={[Function]}
+                      style={
+                        Object {
+                          "display": "none",
+                          "marginLeft": -9999,
+                          "position": "absolute",
+                        }
+                      }
+                      type="radio"
+                      value={3}
+                    />
+                    <label
+                      className="dv-star-rating-star dv-star-rating-full-star"
+                      htmlFor="rate2_3"
+                      onClick={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseOver={[Function]}
+                      style={
+                        Object {
+                          "color": "#ffb400",
+                          "cursor": "default",
+                          "float": "right",
+                        }
+                      }
+                    >
+                      <span>
+                        ●
+                      </span>
+                    </label>
+                    <input
+                      checked={false}
+                      className="dv-star-rating-input"
+                      id="rate2_2"
+                      name="rate2"
+                      onChange={[Function]}
+                      style={
+                        Object {
+                          "display": "none",
+                          "marginLeft": -9999,
+                          "position": "absolute",
+                        }
+                      }
+                      type="radio"
+                      value={2}
+                    />
+                    <label
+                      className="dv-star-rating-star dv-star-rating-full-star"
+                      htmlFor="rate2_2"
+                      onClick={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseOver={[Function]}
+                      style={
+                        Object {
+                          "color": "#ffb400",
+                          "cursor": "default",
+                          "float": "right",
+                        }
+                      }
+                    >
+                      <span>
+                        ●
+                      </span>
+                    </label>
+                    <input
+                      checked={false}
+                      className="dv-star-rating-input"
+                      id="rate2_1"
+                      name="rate2"
+                      onChange={[Function]}
+                      style={
+                        Object {
+                          "display": "none",
+                          "marginLeft": -9999,
+                          "position": "absolute",
+                        }
+                      }
+                      type="radio"
+                      value={1}
+                    />
+                    <label
+                      className="dv-star-rating-star dv-star-rating-full-star"
+                      htmlFor="rate2_1"
+                      onClick={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseOver={[Function]}
+                      style={
+                        Object {
+                          "color": "#ffb400",
+                          "cursor": "default",
+                          "float": "right",
+                        }
+                      }
+                    >
+                      <span>
+                        ●
+                      </span>
+                    </label>
+                  </div>
+                </div>
+                <div
+                  className="property-address"
+                >
+                  339 Pitt St, Sydney
+                </div>
+                <div
+                  className="property-room-name"
+                >
+                  Deluxe King
+                </div>
+                <span
+                  className="item-cancellation"
+                >
+                  Free cancellation
+                </span>
+              </div>
+              <div
+                className="price-details"
+              >
+                <div
+                  className="item-nights"
+                >
+                  1 night from (AUD)
+                </div>
+                <div
+                  className="item-price"
+                >
+                   
+                  <sup>
+                    $
+                  </sup>
+                   
+                  375
+                </div>
+                <div
+                  className="item-save"
+                >
+                  Save $
+                  28
+                  ~
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+</div>
+`;
